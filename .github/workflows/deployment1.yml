@@ -1,4 +1,4 @@
-name: "SWD Deployment Note"
+name: "SWD Deployment Notes"
 
 on: 
   push:
